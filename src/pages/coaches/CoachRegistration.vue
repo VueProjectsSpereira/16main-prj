@@ -1,1 +1,1 @@
-<template>COACH REGISTRATION</template>
+<template>REGISTER</template>
