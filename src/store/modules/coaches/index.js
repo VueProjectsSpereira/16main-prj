@@ -6,7 +6,7 @@ export default {
   namespaced: true,
   state() {
     return {
-      userIsCoach: false,
+      lastFech: null,
       coaches: [
         {
           id: 'c1',
